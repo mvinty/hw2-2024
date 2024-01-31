@@ -67,6 +67,7 @@ div {
 	margin-left: 50px;
 	border-top: 2px;
 	border-right: 5px;
+	border: solid;
 }
 .yellow p {
 	color: #707070;
