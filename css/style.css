@@ -46,16 +46,16 @@ div {
 	background: #FF0000;
 	text-align: right;
 	margin-left: 50px;
-	border-bottom: 2px;
-	border-left: 5px;
+	border-top: 2px;
+	border-right: 5px;
     
 }
 .blue {
 	background: #0000FF;
 	text-align: left;
 	margin-right: 50px;
-	border-right: 5px;
-	border-left: 2px;
+	border-left: 5px;
+	border-bottom: 2px;
 	color: #C4C4C4;
 }
 .blue h2{
@@ -86,10 +86,10 @@ footer {
     border-width: 5px;
 }
 
-footer p {
+footer p{
     font-size: 20px;
     text-align: right;
     padding-top:  15px;
-    padding-left: 15px;
+    padding-right: 15px;
     padding-bottom: 15px;
 }
